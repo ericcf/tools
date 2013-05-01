@@ -5,3 +5,5 @@
 [Buster.js](http://docs.busterjs.org/en/latest/): JS testing toolkit
 
 [Testem](https://github.com/airportyh/testem): JS testing workflow
+
+[Intern](http://theintern.io/): JS testing stack
